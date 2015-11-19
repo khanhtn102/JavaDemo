@@ -50,9 +50,4 @@ public class ManagerSV {
         while(!chon.equals("2"));
     }
     
-    public void display(){
-        for(int i = 0; i < array.size(); i++){
-            System.out.println(array.get(i).ToString());
-        }
-    }
 }
