@@ -43,7 +43,7 @@ public class QLSinhVien {
                     break;
                 }
                 case "3":{
-                    System.out.println(asdasd);
+                    System.out.println(3);
                     break;
                 }
             }
